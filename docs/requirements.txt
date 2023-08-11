@@ -18,7 +18,7 @@ ipykernel==6.4.1
 ipython==7.27.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.4
-scipy==1.7.1
+scipy==1.10.0
 tensorboard==2.6.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
